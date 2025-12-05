@@ -7,7 +7,7 @@ reservationRouter.get('/', (req, res) => {
         <html>
             <body style="background-color:#222; color:#fff; text-align:center; font-family:sans-serif; padding:20px;">
                 <h1>Rezervasyon API Endpointi çalışıyor!</h1>
-                <p>POST istekleri için <code style="color: red;">http://localhost:3000/api/reservations</code> adresini kullanın.</p>
+                <p>POST istekleri için <code style="color: red;">http://localhost:3000/api/reservations</code> veya <code style="color: red;">https://trainreservationsystem-node-js.onrender.com/api/reservations</code> adresini kullanın.</p>
                 <p>Örnek istek gövdesi:</p>
                 <pre style="background:#333; color:#fff; padding:10px; border-radius:5px; text-align:left;">
         {
